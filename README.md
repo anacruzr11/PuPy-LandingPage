@@ -5,5 +5,4 @@ Para el proyecto utilicé
 - HTML
 - CSS
 - Bootstrap v5.3.0
-![Boceto del Landing Page]
-(https://github.com/anacruzr11/PuPy-LandingPage/blob/main/assest/images/Boceto.png)
+![Boceto del Landing Page] (assest/images/Boceto.png)
