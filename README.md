@@ -5,4 +5,4 @@ Para el proyecto utilicé
 - HTML
 - CSS
 - Bootstrap v5.3.0
-![Boceto del Landing Page] (assest/images/Boceto.png)
+![Boceto](/assest/images/Boceto.png)
