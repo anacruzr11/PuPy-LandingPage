@@ -56,6 +56,7 @@ body {
 
 .servicios-item {
     margin: 16px;
+    border-color: #a1e9de;
 }
 
 
@@ -78,10 +79,10 @@ body {
 
 footer {
     padding: 20px 20px 20px 20px;
-    border-top: 1px solid #bdc7cf;
+    border-top: 1px solid #fbc8ef;
     display: flex;
     justify-content: center;
-    background-color: #f3f1f1;
+    background-color: #fbe9f7;
     margin: 0px !important;
 }
 
@@ -99,6 +100,6 @@ footer {
 
 .footer-text {
     text-align: center;
-    border-top: 1px solid #bdc7cf;
+    border-top: 1px solid #fbc8ef;
     margin: 0px 20px 0px 20px;
 }
