@@ -8,4 +8,4 @@ Para el proyecto utilicé
 - CSS
 - Bootstrap v5.3.0
 # Boceto del Landing Page
-![Boceto](/assest/images/Boceto.png)
+![Boceto](/assest/images/Boceto.png = 655)
